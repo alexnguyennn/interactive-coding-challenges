@@ -1,5 +1,5 @@
 from nose.tools import assert_equal
-
+from remove_duplicates_solution import MyLinkedList
 
 class TestRemoveDupes(object):
 

@@ -5,7 +5,7 @@ class Node(object):
         self.data = data
 
     def __str__(self):
-        return self.data
+        return f"{self.data}"
 
 
 class LinkedList(object):
