@@ -1,3 +1,4 @@
+from stack_challenge import Stack, Node
 from nose.tools import assert_equal
 
 
